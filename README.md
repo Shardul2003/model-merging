@@ -8,6 +8,7 @@ This repository explores merging fine-tuned language models to evaluate task-spe
 - `weighted_MergeLM` – Contains custom merging logic and scaled task arithmetic. Also includes additional benchmarking and base model performance.
 - `Model_merge_benchmark` – This incorporates the merging used and largely focuses on the several math benchmarks assessed from the lm-eval framework.
 - `Custom_Model_Merge` – Focuses on the fine-tuned falcon models and merging approaches for these. Also includes several benchmarks on medical and toxicity datasets.
+- `custom_models_new` – This includes imporvements to the fine-tuned falcon models for medical and toxicity. It includes updated benchmark performance as well.
 
 ## 🚀 Quick Start
 
